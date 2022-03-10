@@ -6,6 +6,9 @@
 # install dependencies
 $ npm install
 
+see link bellow:
+https://kinsta.com/blog/how-to-install-node-js/
+
 # serve with hot reload at localhost:3000
 $ npm run dev
 
