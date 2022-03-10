@@ -15,6 +15,11 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# after configure you backend and load database BCK
+
+$ user: prueba
+$ password: 123456
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
